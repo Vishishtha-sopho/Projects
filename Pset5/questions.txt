@@ -1,0 +1,11 @@
+0.  Pneumonoultramicroscopicsilicovolcanoconiosis a lung disease caused by inhaling very fine ash and sand dust.
+1.  getrusage times the execution of the implementations of the functions Load, Check, Size and Unload in the program. 
+2.  TODO
+3.  Memory
+4.  TODO
+5.  word with hyphens
+6.  No change wanted
+7.  TODO
+8.  TODO
+9.  TODO
+10. TODO
