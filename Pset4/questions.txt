@@ -1,0 +1,29 @@
+0.  BMP:16.7million GIF:256 JPEG:16.7million PNG:16.7million 
+1.  GIF
+2.  Lossy compression refers to the loss in quality of an image as it is compresses and decompressed.
+    Lossless compression corresponds to the retiontion of image quality in its entirety even when the image is compressed or decompressed any number of times.
+3.  JPEG
+4.  When a file is deleted in FAT system, metadata that is pointed to that file is rewritten while disk 
+    blocks containing the file's content are still there.
+5.  I would use a data destruction software that would over-write the disk so many times that it would 
+    be nearly impossible to recover the data.
+6.  <stdint.h> is a header file located in the C standard Library which "allow programmers to write more 
+    portable code by providing a set of typedefs,that narrow down specific typedefs in exact-integer types.
+7.  These are predefined signed TYPES for specific number usage
+8.  BYTE = 8-bit = 1 byte, 
+    DWORD = 32-bit = 4 bytes
+    LONG = 32-bit = 4 bytes
+    WORD = 16-bit = 2 bytes
+9.  Signature letters BM with hexadecimal value (0x42 0x4D)
+10. bfSize refers to the file size of the bitmap in bytes.
+    biSize refers to the header size which must be be at least 40 bytes.
+11. If biHeight is negative, it indicates that the pixel data is ordered from top-down  and the origin of the bitmap is the upper-left corner.
+12. The biBitCount field specifies the BMP's color depth.
+13. fopen may return NULL value when either of the two occurs:
+    a)file is too large and there is not enough space. 
+    b)user is not authorized to create the file.
+14. The third argument to fread takes in the size of the bitmapfile header and each bitmap image comes with only one header.
+15. 1
+16. The fseek() function is used to change the file postion of the stream
+17. Used as an argument for fseek(); shows the position of the postion pointer
+18. It is ROB BOWDEN and his CAT
